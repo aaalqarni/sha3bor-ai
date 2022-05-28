@@ -76,6 +76,8 @@ python generate.py --help
 1- [aliosm/sha3bor-generator-aragpt2-base](https://huggingface.co/aliosm/sha3bor-generator-aragpt2-base)  
 2- [aliosm/sha3bor-generator-aragpt2-medium](https://huggingface.co/aliosm/sha3bor-generator-aragpt2-medium)
 
+لتجربتها، إضغط على هذا [الرابط](https://sha3bor.herokuapp.com/generator).
+
 ## أفكار للتطوير
 
 <p>
