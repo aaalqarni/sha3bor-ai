@@ -12,3 +12,4 @@ scorer/
 !*/models/.gitkeep
 
 */README.md
+!generator/README.md
