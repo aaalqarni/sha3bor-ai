@@ -1,0 +1,14 @@
+PyArabic==0.6.14
+aruudy==0.5.1
+datasets==2.2.1
+farasapy==0.0.14
+gdown==4.4.0
+numpy==1.20.1
+pandas==1.2.4
+seqeval==1.2.2
+torch==1.11.0+cu113
+tqdm==4.63.1
+transformers==4.18.0
+
+# سيتم استعمالها عندما نبدأ العمل على المُقيّم (scorer)
+# https://github.com/kpu/kenlm/archive/master.zip

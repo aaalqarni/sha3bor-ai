@@ -1,0 +1,14 @@
+__pycache__
+
+arabert/
+
+scorer/
+
+/data/*
+!/data/.gitkeep
+*/data/*
+!*/data/.gitkeep
+*/models/*
+!*/models/.gitkeep
+
+*/README.md
